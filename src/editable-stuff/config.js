@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/joel.jpg"),
   imageSize: 375,
   message:
-    "My name is Joel Brandinger. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Joel Brandinger. I'm currently a student at Tufts University majoring in data science with a minor in economics. As a member of the varsity ice hockey team I am extremely passionate about sports. My goal is to pursue this passion within the field of data science and software engineering.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
