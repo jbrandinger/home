@@ -131,14 +131,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Data Analytics Intern',// Here Add Company Name
-      companylogo: require('../assets/img/php.png'),
-      date: 'May 2022 – August 2022',
-    },
-    {
       role: 'Data Engineer Intern',
       companylogo: require('../assets/img/principal.png'),
       date: 'May 2023 – Present',
+    },
+    {
+      role: 'Data Analytics Intern',// Here Add Company Name
+      companylogo: require('../assets/img/php.png'),
+      date: 'May 2022 – August 2022',
     },
   ]
 }
