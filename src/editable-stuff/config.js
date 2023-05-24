@@ -44,11 +44,11 @@ const about = {
 // PROJECTS SECTION
 // Set project length or display specfic projects i.e ["repos-1", "repo-2"]
 const repos = {
-  show: false,
+  show: true,
   heading: "Recent Projects",
   gitHubUsername: "jbrandinger",
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 2,
+  specificRepos: ["song-clustering", "image-classification"],
 };
 
 // Leadership SECTION
