@@ -47,8 +47,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "jbrandinger",
-  // reposLength: 2,
-  specificRepos: ["song-clustering", "image-classification"],
+  reposLength: 2,
+  specificRepos: [],
 };
 
 // Leadership SECTION
