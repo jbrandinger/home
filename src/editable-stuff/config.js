@@ -117,7 +117,7 @@ const experiences = {
     {
       role: 'Data Engineer Intern',
       companylogo: require('../assets/img/principal.png'),
-      date: 'May 2023 – Present',
+      date: 'May 2023 – August 2023',
     },
     {
       role: 'Data Analytics Intern',
