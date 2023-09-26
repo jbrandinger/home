@@ -44,7 +44,7 @@ const about = {
 // PROJECTS SECTION
 // Set project length or display specfic projects i.e ["repos-1", "repo-2"]
 const repos = {
-  show: false,
+  show: true,
   heading: "Recent Projects",
   gitHubUsername: "jbrandinger",
   reposLength: 6,
@@ -77,7 +77,7 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: false,
+  show: true,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 95 },
