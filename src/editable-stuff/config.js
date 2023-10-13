@@ -117,7 +117,7 @@ const experiences = {
     {
       role: 'Software Developer',
       companylogo: require('../assets/img/jumbocode.png'),
-      date: 'May 2022 – August 2022',
+      date: 'September 2023 – Present',
     },
     {
       role: 'Software Engineer Intern',
