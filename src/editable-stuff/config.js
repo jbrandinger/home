@@ -77,7 +77,7 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: true,
+  show: false,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 95 },
@@ -115,7 +115,12 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Data Engineer Intern',
+      role: 'Software Developer',
+      companylogo: require('../assets/img/jumbocode.png'),
+      date: 'May 2022 – August 2022',
+    },
+    {
+      role: 'Software Engineer Intern',
       companylogo: require('../assets/img/principal.png'),
       date: 'May 2023 – August 2023',
     },
