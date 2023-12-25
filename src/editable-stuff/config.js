@@ -37,7 +37,7 @@ const about = {
   imageLink: require("../editable-stuff/joel.jpg"),
   imageSize: 375,
   message:
-    "My name is Joel Brandinger. I'm currently a student at Tufts University majoring in data science with a minor in economics. I'm also a dedicated member of the varsity ice hockey team. Outside of academics and sports, you'll find me in the gym, pursuing my love for weight lifting, exploring nature through hiking, or savoring a cup of coffee under the warm sun.",
+    "My name is Joel Brandinger. I'm currently a student at Tufts University majoring in data science with minors in economics and mathematics. I'm also a dedicated member of the varsity ice hockey team. Outside of academics and sports, you'll find me in the gym, pursuing my love for weight lifting, exploring nature through hiking, or savoring a cup of coffee under the warm sun.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -77,27 +77,27 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: false,
+  show: true,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 95 },
-    { name: "SQL", value: 75 },
+    { name: "SQL", value: 85 },
     { name: "Data Structures", value: 90 },
     { name: "C/C++", value: 95 },
-    { name: "Java", value: 70 },
-    { name: "React", value: 50 },
-    { name: "HTML/CSS", value: 60 },
-    { name: "JavaScript", value: 60 },
+    { name: "Java", value: 80 },
+    { name: "React", value: 80 },
+    { name: "HTML/CSS", value: 75 },
+    { name: "JavaScript", value: 85 },
   ],
   softSkills: [
     { name: "Work Ethic", value: 100 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 85 },
     { name: "Disicpline", value: 100 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Problem Solving", value: 90 },
     { name: "Time Management", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Organization", value: 80 },
+    { name: "Creativity", value: 85 },
   ],
 };
 
@@ -114,6 +114,11 @@ const experiences = {
   show: true,
   heading: "Experiences",
   data: [
+    {
+      role: 'Machine Learning Research Assistant',
+      companylogo: require('../assets/img/tufts_logo.png'),
+      date: 'November 2023 – Present',
+    },
     {
       role: 'Software Developer',
       companylogo: require('../assets/img/jumbocode.png'),
