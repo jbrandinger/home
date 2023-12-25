@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/home/static/css/main.778eeed7.css",
-    "main.js": "/home/static/js/main.54bb1449.js",
+    "main.js": "/home/static/js/main.53414bad.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
     "static/media/joel.jpg": "/home/static/media/joel.e2007b439c49c5dc5ab4.jpg",
-    "static/media/resume.pdf": "/home/static/media/resume.a33b780cf8e882f55c42.pdf",
-    "static/media/principal.png": "/home/static/media/principal.83d1c7ec16c952991e87.png",
-    "static/media/php.png": "/home/static/media/php.902f5f5402416c8806ff.png",
-    "static/media/jumbocode.png": "/home/static/media/jumbocode.f624f48cf305c2b9331a.png",
+    "static/media/resume.pdf": "/home/static/media/resume.15818ed29ed8db771c41.pdf",
+    "static/media/principal.png": "/home/static/media/principal.74c0b4fd71a24899bff5.png",
+    "static/media/tufts_logo.png": "/home/static/media/tufts_logo.cb0ae8cf47f55c024f63.png",
+    "static/media/php.png": "/home/static/media/php.84ca4e790399eadd7551.png",
+    "static/media/jumbocode.png": "/home/static/media/jumbocode.3cdd05f5c5427f1c0327.png",
     "index.html": "/home/index.html",
     "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
-    "main.54bb1449.js.map": "/home/static/js/main.54bb1449.js.map",
+    "main.53414bad.js.map": "/home/static/js/main.53414bad.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.54bb1449.js"
+    "static/js/main.53414bad.js"
   ]
 }
