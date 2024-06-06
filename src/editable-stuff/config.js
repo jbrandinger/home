@@ -37,7 +37,7 @@ const about = {
   imageLink: require("../editable-stuff/joel.jpg"),
   imageSize: 375,
   message:
-    "My name is Joel Brandinger. I'm currently a student at Tufts University majoring in data science with minors in economics and mathematics. I'm also a dedicated member of the varsity ice hockey team. Outside of academics and sports, you'll find me in the gym, pursuing my love for weight lifting, exploring nature through hiking, or savoring a cup of coffee under the warm sun.",
+    "My name is Joel Brandinger. I just graduated from Tufts University with a major in data science and minors in mathematics and computer science. At Tufts I was also a dedicated member of the varsity ice hockey team. Outside of academics and sports, you'll find me in the gym, pursuing my love for weight lifting, exploring nature through hiking, or savoring a cup of coffee under the warm sun.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
