@@ -37,7 +37,7 @@ const about = {
   imageLink: require("../editable-stuff/joel.jpg"),
   imageSize: 375,
   message:
-    "My name is Joel Brandinger. I just graduated from Tufts University with a major in data science and minors in mathematics and computer science. At Tufts I was also a dedicated member of the varsity ice hockey team. Outside of academics and sports, you'll find me in the gym, pursuing my love for weight lifting, exploring nature through hiking, or savoring a cup of coffee under the warm sun.",
+    "My name is Joel Brandinger. I recently graduated from Tufts University with a major in data science and minors in mathematics and computer science. At Tufts I was also a dedicated member of the varsity ice hockey team. Outside of academics and sports, you'll find me in the gym, pursuing my love for weight lifting, exploring nature through hiking, or savoring a cup of coffee under the warm sun.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -77,7 +77,7 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: true,
+  show: false,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 95 },
@@ -117,12 +117,12 @@ const experiences = {
     {
       role: 'Machine Learning Research Assistant',
       companylogo: require('../assets/img/tufts_logo.png'),
-      date: 'November 2023 – Present',
+      date: 'November 2023 – May 2024',
     },
     {
       role: 'Software Developer',
       companylogo: require('../assets/img/jumbocode.png'),
-      date: 'September 2023 – Present',
+      date: 'September 2023 – April 2024',
     },
     {
       role: 'Software Engineer Intern',
