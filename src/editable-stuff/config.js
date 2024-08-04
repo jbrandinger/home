@@ -115,6 +115,11 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
+      role: 'Software Engineer',
+      companylogo: require('../assets/img/Wayfair_logo.png'),
+      date: 'July 2024 – Present',
+    },
+    {
       role: 'Machine Learning Research Assistant',
       companylogo: require('../assets/img/tufts_logo.png'),
       date: 'November 2023 – May 2024',
