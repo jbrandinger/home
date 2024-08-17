@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.f507eb9e.css",
+    "main.js": "/home/static/js/main.6fbbff39.js",
+    "static/js/453.9b1a9f3d.chunk.js": "/home/static/js/453.9b1a9f3d.chunk.js",
+    "static/media/joel.jpg": "/home/static/media/joel.e2007b439c49c5dc5ab4.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.2c4bdbaa1cc9df9599e1.pdf",
+    "static/media/principal.png": "/home/static/media/principal.74c0b4fd71a24899bff5.png",
+    "static/media/Wayfair_logo.png": "/home/static/media/Wayfair_logo.ac782ff2217785c9d568.png",
+    "static/media/tufts_logo.png": "/home/static/media/tufts_logo.cb0ae8cf47f55c024f63.png",
+    "static/media/php.png": "/home/static/media/php.84ca4e790399eadd7551.png",
+    "index.html": "/home/index.html",
+    "main.f507eb9e.css.map": "/home/static/css/main.f507eb9e.css.map",
+    "main.6fbbff39.js.map": "/home/static/js/main.6fbbff39.js.map",
+    "453.9b1a9f3d.chunk.js.map": "/home/static/js/453.9b1a9f3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f507eb9e.css",
+    "static/js/main.6fbbff39.js"
+  ]
+}
