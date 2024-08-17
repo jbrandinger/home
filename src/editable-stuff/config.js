@@ -47,8 +47,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "jbrandinger",
-  reposLength: 6,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ['chimpanzee-size-estimation', 'image_classification', 'song_clustering', 'boston_metro'],
 };
 
 // Leadership SECTION
@@ -77,7 +77,7 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: false,
+  show: true,
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 95 },
@@ -112,7 +112,7 @@ const getInTouch = {
 
 const experiences = {
   show: true,
-  heading: "Experiences",
+  heading: "Experience",
   data: [
     {
       role: 'Software Engineer',
@@ -124,11 +124,11 @@ const experiences = {
       companylogo: require('../assets/img/tufts_logo.png'),
       date: 'November 2023 – May 2024',
     },
-    {
-      role: 'Software Developer',
-      companylogo: require('../assets/img/jumbocode.png'),
-      date: 'September 2023 – April 2024',
-    },
+    // {
+    //   role: 'Software Developer',
+    //   companylogo: require('../assets/img/jumbocode.png'),
+    //   date: 'September 2023 – April 2024',
+    // },
     {
       role: 'Software Engineer Intern',
       companylogo: require('../assets/img/principal.png'),
