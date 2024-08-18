@@ -6,7 +6,7 @@ function SkillsBar({ skill, value }) {
     <div style={{ width: "95%" }}>
       <p className="lead mb-1 mt-2">{skill}</p>
       <ProgressBar
-        className="progress" // Using only the static class, no animation
+        className="progress"
         now={value}
       />
     </div>
@@ -14,4 +14,3 @@ function SkillsBar({ skill, value }) {
 }
 
 export default SkillsBar;
-
