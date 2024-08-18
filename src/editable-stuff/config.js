@@ -110,6 +110,7 @@ const getInTouch = {
   email: "jbrandinger99@gmail.com",
 };
 
+// EXPERIENCES
 const experiences = {
   show: true,
   heading: "Experience",
