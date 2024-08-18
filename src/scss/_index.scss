@@ -118,14 +118,11 @@ code {
 }
 
 .progress {
-  transform-origin: left;
-  & > * {
-    transform: scaleX(0);
-  }
+  background-color: #e0e0e0;
+  transition: none;
 }
+
 .progress-bar-animation {
-  @extend .progress;
-  & > * {
-    animation: progress 1.5s ease-in-out forwards;
-  }
+  animation: none; 
 }
+
