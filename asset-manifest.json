@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.f507eb9e.css",
-    "main.js": "/home/static/js/main.6fbbff39.js",
+    "main.css": "/home/static/css/main.1b947c3b.css",
+    "main.js": "/home/static/js/main.d7f02960.js",
     "static/js/453.9b1a9f3d.chunk.js": "/home/static/js/453.9b1a9f3d.chunk.js",
     "static/media/joel.jpg": "/home/static/media/joel.e2007b439c49c5dc5ab4.jpg",
     "static/media/resume.pdf": "/home/static/media/resume.2c4bdbaa1cc9df9599e1.pdf",
@@ -10,12 +10,12 @@
     "static/media/tufts_logo.png": "/home/static/media/tufts_logo.cb0ae8cf47f55c024f63.png",
     "static/media/php.png": "/home/static/media/php.84ca4e790399eadd7551.png",
     "index.html": "/home/index.html",
-    "main.f507eb9e.css.map": "/home/static/css/main.f507eb9e.css.map",
-    "main.6fbbff39.js.map": "/home/static/js/main.6fbbff39.js.map",
+    "main.1b947c3b.css.map": "/home/static/css/main.1b947c3b.css.map",
+    "main.d7f02960.js.map": "/home/static/js/main.d7f02960.js.map",
     "453.9b1a9f3d.chunk.js.map": "/home/static/js/453.9b1a9f3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f507eb9e.css",
-    "static/js/main.6fbbff39.js"
+    "static/css/main.1b947c3b.css",
+    "static/js/main.d7f02960.js"
   ]
 }
