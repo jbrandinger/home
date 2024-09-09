@@ -16,7 +16,6 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Skills from "./components/home/Skills";
 import GetInTouch from "./components/home/GetInTouch.jsx";
-
 import Experience from "./components/home/Experience";
 
 const Home = React.forwardRef((props, ref) => {
