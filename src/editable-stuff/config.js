@@ -51,30 +51,6 @@ const repos = {
   specificRepos: ['chimpanzee-size-estimation', 'image_classification', 'song_clustering', 'boston_metro'],
 };
 
-// Leadership SECTION
-const leadership = {
-  show: false,
-  heading: "Leadership",
-  message:
-    "Talk about leadership roles and opportunities",
-  images: [
-    { 
-      img: require("../editable-stuff/joel.jpg"), 
-      label: "First slide label", 
-      paragraph: "Talk about leadership 1" 
-    },
-    { 
-      img: require("../editable-stuff/joel.jpg"), 
-      label: "Second slide label", 
-      paragraph: "Talk about leadership 2" 
-    },
-  ],
-  imageSize: {
-    width:"550",
-    height:"550"
-  }
-};
-
 // SKILLS SECTION
 const skills = {
   show: true,
@@ -125,11 +101,11 @@ const experiences = {
       companylogo: require('../assets/img/tufts_logo.png'),
       date: 'November 2023 – May 2024',
     },
-    // {
-    //   role: 'Software Developer',
-    //   companylogo: require('../assets/img/jumbocode.png'),
-    //   date: 'September 2023 – April 2024',
-    // },
+    {
+      role: 'Software Developer',
+      companylogo: require('../assets/img/jumbocode.png'),
+      date: 'September 2023 – April 2024',
+    },
     {
       role: 'Software Engineer Intern',
       companylogo: require('../assets/img/principal.png'),
@@ -140,7 +116,12 @@ const experiences = {
       companylogo: require('../assets/img/php.png'),
       date: 'May 2022 – August 2022',
     },
+    {
+      role: 'Grocery Shopper',
+      companylogo: require('../assets/img/Shipt_Logo.png'),
+      date: 'April 2019 – August 2021',
+    }
   ]
 }
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+export { navBar, mainBody, about, repos, skills, getInTouch, experiences };
