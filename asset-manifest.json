@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.1b947c3b.css",
-    "main.js": "/home/static/js/main.eccd03b7.js",
+    "main.css": "/home/static/css/main.0485e990.css",
+    "main.js": "/home/static/js/main.571c50e6.js",
     "static/js/453.9b1a9f3d.chunk.js": "/home/static/js/453.9b1a9f3d.chunk.js",
     "static/media/joel.jpg": "/home/static/media/joel.e2007b439c49c5dc5ab4.jpg",
     "static/media/resume.pdf": "/home/static/media/resume.2c4bdbaa1cc9df9599e1.pdf",
     "static/media/principal.png": "/home/static/media/principal.74c0b4fd71a24899bff5.png",
+    "static/media/sql.png": "/home/static/media/sql.7ac42a261acef2a735a7.png",
     "static/media/Wayfair_logo.png": "/home/static/media/Wayfair_logo.ac782ff2217785c9d568.png",
     "static/media/tufts_logo.png": "/home/static/media/tufts_logo.cb0ae8cf47f55c024f63.png",
     "static/media/Shipt_Logo.png": "/home/static/media/Shipt_Logo.f48b019f3eac47cb6344.png",
     "static/media/php.png": "/home/static/media/php.84ca4e790399eadd7551.png",
+    "static/media/react.png": "/home/static/media/react.440d6759e0e5dbffbb26.png",
     "static/media/jumbocode.png": "/home/static/media/jumbocode.3cdd05f5c5427f1c0327.png",
+    "static/media/cpp.png": "/home/static/media/cpp.dcf8c96eae2d1e71061a.png",
+    "static/media/csharp.png": "/home/static/media/csharp.983af60def43904526f3.png",
     "index.html": "/home/index.html",
-    "main.1b947c3b.css.map": "/home/static/css/main.1b947c3b.css.map",
-    "main.eccd03b7.js.map": "/home/static/js/main.eccd03b7.js.map",
+    "main.0485e990.css.map": "/home/static/css/main.0485e990.css.map",
+    "main.571c50e6.js.map": "/home/static/js/main.571c50e6.js.map",
     "453.9b1a9f3d.chunk.js.map": "/home/static/js/453.9b1a9f3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b947c3b.css",
-    "static/js/main.eccd03b7.js"
+    "static/css/main.0485e990.css",
+    "static/js/main.571c50e6.js"
   ]
 }
