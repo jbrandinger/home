@@ -55,27 +55,45 @@ const repos = {
 const skills = {
   show: true,
   heading: "Skills",
-  hardSkills: [
-    { name: "Python", value: 95 },
-    { name: "SQL", value: 85 },
-    { name: "Data Structures", value: 90 },
-    { name: "C/C++", value: 95 },
-    { name: "Java", value: 80 },
-    { name: "React", value: 80 },
-    { name: "HTML/CSS", value: 75 },
-    { name: "JavaScript", value: 85 },
-  ],
-  softSkills: [
-    { name: "Work Ethic", value: 100 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 85 },
-    { name: "Disicpline", value: 100 },
-    { name: "Problem Solving", value: 90 },
-    { name: "Time Management", value: 90 },
-    { name: "Organization", value: 80 },
-    { name: "Creativity", value: 85 },
-  ],
+  data: [
+    { 
+      name: 'Python', 
+      logo: require('../assets/img/python.png')
+    },
+    { 
+      name: 'SQL', 
+      logo: require('../assets/img/sql.png') 
+    },
+    { 
+      name: 'C++', 
+      logo: require('../assets/img/cpp.png') 
+    },
+    { 
+      name: 'Java', 
+      logo: require('../assets/img/java.png') 
+    },
+    { 
+      name: 'React', 
+      logo: require('../assets/img/react.png') 
+    },
+    { 
+      name: 'HTML', 
+      logo: require('../assets/img/html.png') 
+    },
+    { 
+      name: 'JavaScript', 
+      logo: require('../assets/img/js.png') 
+    },
+    { 
+      name: 'C#', 
+      logo: require('../assets/img/csharp.png') 
+    },
+    // { name: "React", logo: "/path/to/react-logo.png" },
+    // { name: "HTML/CSS", logo: "/path/to/html-css-logo.png" },
+    // { name: "JavaScript", logo: "/path/to/javascript-logo.png" },
+  ]
 };
+
 
 // GET IN TOUCH SECTION
 const getInTouch = {

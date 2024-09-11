@@ -15,7 +15,7 @@ import Project from "./components/home/Project";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Skills from "./components/home/Skills";
-import GetInTouch from "./components/home/GetInTouch.jsx";
+import GetInTouch from "./components/home/GetInTouch";
 import Experience from "./components/home/Experience";
 
 const Home = React.forwardRef((props, ref) => {
@@ -51,11 +51,7 @@ const Home = React.forwardRef((props, ref) => {
         />
       )}
       {skills.show && (
-        <Skills
-          heading={skills.heading}
-          hardSkills={skills.hardSkills}
-          softSkills={skills.softSkills}
-        />
+        <Skills skills={skills}/>
       )}
       
     </>

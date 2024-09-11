@@ -109,20 +109,9 @@ code {
     transition: transform 0.3s, box-shadow 0.3s;
   }
 }
-.skills-tabs {
-  flex-grow: 1;
-}
-.skills-tab {
-  flex-grow: 1;
-  text-align: center;
-}
 
 .progress {
   background-color: #e0e0e0;
   transition: none;
-}
-
-.progress-bar-animation {
-  animation: none; 
 }
 
