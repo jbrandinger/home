@@ -88,9 +88,6 @@ const skills = {
       name: 'C#', 
       logo: require('../assets/img/csharp.png') 
     },
-    // { name: "React", logo: "/path/to/react-logo.png" },
-    // { name: "HTML/CSS", logo: "/path/to/html-css-logo.png" },
-    // { name: "JavaScript", logo: "/path/to/javascript-logo.png" },
   ]
 };
 
