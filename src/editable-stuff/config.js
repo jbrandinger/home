@@ -97,7 +97,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I am currently looking for full-time data science and software engineering roles! If you know of any available positions, have any questions, or just want to say hi, please feel free to email me at",
+    "If you have any questions or just want to say hi, please feel free to email me at",
   email: "jbrandinger99@gmail.com",
 };
 
