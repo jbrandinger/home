@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/jbrandinger/",
+      url: "https://www.instagram.com/joel.brandinger/",
     },
     {
       image: "fa-linkedin",
