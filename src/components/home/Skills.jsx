@@ -7,7 +7,7 @@ const Skills = ({ skills }) => {
   return (
     <section className="section bg-light">
       <Container>
-        <Jumbotron>
+        <Jumbotron className="bg-light">
           <h2 className="display-4 mb-5 text-center">
             {skills.heading}
           </h2>
