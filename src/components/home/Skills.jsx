@@ -5,22 +5,20 @@ import { Container, Row } from "react-bootstrap";
 
 const Skills = ({ skills }) => {
   return (
-    <section className="section bg-light">
+    <Jumbotron className="bg-white">
       <Container>
-        <Jumbotron className="bg-light">
-          <h2 className="display-4 mb-5 text-center">
-            {skills.heading}
-          </h2>
-          <Row>
-            {
-              skills.data.map((data, index) => {
-                return <SkillsCard key={index} data={data} />
-              })
-            }
-          </Row>
-        </Jumbotron>
+        <h2 className="display-4 mb-5 text-center">
+          {skills.heading}
+        </h2>
+        <Row>
+          {
+            skills.data.map((data, index) => {
+              return <SkillsCard key={index} data={data} />
+            })
+          }
+        </Row>
       </Container>
-    </section>
+    </Jumbotron>
   );
 }
 
