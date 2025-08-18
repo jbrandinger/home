@@ -48,7 +48,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "jbrandinger",
   reposLength: 0,
-  specificRepos: ['chimpanzee-size-estimation', 'image_classification', 'song_clustering', 'boston_metro'],
+  specificRepos: ['chess', 'calorie-tracker'],
 };
 
 // SKILLS SECTION

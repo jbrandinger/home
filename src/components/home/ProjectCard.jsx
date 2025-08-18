@@ -14,9 +14,9 @@ const ProjectCard = ({ value }) => {
     pushed_at,
   } = value;
   return (
-    <Col md={6}>
-      <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
-        <Card.Body>
+    <Col md={6} className="d-flex">
+      <Card className="card shadow-lg p-3 mb-5 bg-white rounded w-100">
+        <Card.Body className="d-flex flex-column">
           <Card.Title as="h5">{name || <Skeleton />} </Card.Title>
           <Card.Text>{(!description) ? "" : description || <Skeleton count={3} />} </Card.Text>
           {svn_url ? <CardButtons svn_url={svn_url} /> : <Skeleton count={2} />}
@@ -26,11 +26,13 @@ const ProjectCard = ({ value }) => {
           ) : (
             <Skeleton count={3} />
           )}
-          {value ? (
-            <CardFooter star_count={stargazers_count} repo_url={svn_url} pushed_at={pushed_at} />
-          ) : (
-            <Skeleton />
-          )}
+          <div className="mt-auto">
+            {value ? (
+              <CardFooter star_count={stargazers_count} repo_url={svn_url} pushed_at={pushed_at} />
+            ) : (
+              <Skeleton />
+            )}
+          </div>
         </Card.Body>
       </Card>
     </Col>
