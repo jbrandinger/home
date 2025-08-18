@@ -5,7 +5,7 @@ import { Container, Row } from "react-bootstrap";
 
 const Skills = ({ skills }) => {
   return (
-    <Jumbotron className="bg-white">
+    <Jumbotron id="skills" className="bg-white">
       <Container>
         <h2 className="display-4 mb-5 text-center">
           {skills.heading}
