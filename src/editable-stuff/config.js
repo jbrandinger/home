@@ -47,8 +47,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "jbrandinger",
-  reposLength: 0,
-  specificRepos: ['habit-tracker', 'chimpanzee-size-estimation'],
+  reposLength: 2,
+  specificRepos: [],
 };
 
 // SKILLS SECTION
